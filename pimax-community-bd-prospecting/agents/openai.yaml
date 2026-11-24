@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pimax 海外社群 BD 拓展"
+  short_description: "生成带公开邮箱或 Discord 的去重 BD 名单"
+  default_prompt: "Use $pimax-community-bd-prospecting to 拉取下一批不重复的海外社群 BD 名单，只保留公开邮箱或 Discord，并输出 Excel。"
